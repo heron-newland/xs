@@ -8,11 +8,11 @@
 <key>kind</key>
 <string>display-image</string>
 <key>url</key>
-<string>https://github.com/heron-newland/xs/blob/main/resources/Icon-58.png</string>
+<string>http://192.168.120.216/xs/Icon-58.png</string>
 </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
 <key>url</key>
-<string>https://github.com/heron-newland/xs/blob/main/resources/Icon-120.png</string>
+<string>http://192.168.120.216/xs/Icon-120.png</string>
 </dict>
